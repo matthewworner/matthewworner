@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌍 Malta / Whangarei NZ • 🌐 <a href="https://worner.me">worner.me</a> • 📧 Email • 🐦 <a href="https://x.com/matthewworner">@matthewworner</a>
+  🌍 Malta / Whangarei NZ • 🌐 <a href="https://worner.me">worner.me</a>  🐦 <a href="https://x.com/matthewworner">@matthewworner</a>
 </p>
 
 ## About
