@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌍 Malta / Auckland NZ (relocating mid-2026) • 🌐 <a href="https://worner.me">worner.me</a> • 📧 Email • 🐦 <a href="https://x.com/matthewworner">@matthewworner</a>
+  🌍 Malta / Whangarei NZ • 🌐 <a href="https://worner.me">worner.me</a> • 📧 Email • 🐦 <a href="https://x.com/matthewworner">@matthewworner</a>
 </p>
 
 ## About
@@ -67,18 +67,4 @@ Recent side projects blending creativity, AI, and practical utility:
   *Tech*: TypeScript, React, Node.js, PostgreSQL, Tailwind, AWS  
   [View project ↗](https://dwspbuilder.com) <!-- or GitHub if public -->
 
-More details and live demos on worner.me or repo READMEs.
 
-## Contact
-
-I'd love to hear from you — questions, collaborations, hellos, all welcome.
-
-- **Email**: [your@email.com] <!-- replace with actual -->
-- **GitHub**: [@matthewworner](https://github.com/matthewworner)
-- **Website**: [worner.me](https://worner.me)
-- **X/Twitter**: [@matthewworner](https://x.com/matthewworner)
-
-<p align="center">
-  © 2026 Matthew Worner. All rights reserved.<br>
-  Builder & Product Owner
-</p>
